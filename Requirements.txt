@@ -1,0 +1,4 @@
+selenium==4.28.1
+robotframework-seleniumlibrary==6.7.0
+
+## run command pip install -r requirements.txt 

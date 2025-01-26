@@ -1,0 +1,18 @@
+### robotframework ###
+log.html
+output.xml
+report.html
+results/
+selenium-screenshot-*.png
+
+### venv ###
+.venv
+.env
+evn/
+venv/
+ENV/
+env.bak/
+vemv.bak/
+!requirement.txt
+__pycache__
+/__pycache__
